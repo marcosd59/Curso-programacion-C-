@@ -25,7 +25,7 @@ La estructura de carpetas sigue un patrón lógico para facilitar la navegación
 
 1. **Clonación del Repositorio:**
    ```bash
-   git clone https://github.com/Curso-programacion-C-.git
+   git clone https://github.com/Curso-Programacion-C-Plus-Plus.git
    ```
 
 2. **Navegación entre Bloques:**
