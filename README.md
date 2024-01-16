@@ -1,6 +1,6 @@
 # Curso de Programación en C++
 
-¡Bienvenido al repositorio del curso de Programación en C++! Este curso está dividido en 18 bloques, cada uno abordando temas específicos para ayudarte a fortalecer tus habilidades en programación en C++. A continuación, encontrarás una breve descripción de cada bloque y cómo navegar por el repositorio.
+Este curso está dividido en 18 bloques, cada uno abordando temas específicos para fortalecer nuestras habilidades en programación en C++. A continuación, encontrarás una breve descripción de cada bloque y cómo navegar por el repositorio.
 
 ## Estructura del Repositorio
 
@@ -43,5 +43,3 @@ El repositorio está organizado de la siguiente manera:
 
 4. **Contribuciones:**
    Siéntete libre de contribuir al repositorio mediante pull requests, correcciones de errores o mejoras en el código.
-
-¡Disfruta del curso y feliz programación en C++!
